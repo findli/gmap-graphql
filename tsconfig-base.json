@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": "./",
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedLocals": false,
+    "allowUnreachableCode": true,
+    "forceConsistentCasingInFileNames": true,
+    "allowJs": false,
+    "strictNullChecks": true,
+    "alwaysStrict": true,
+    "strict": true,
+    "diagnostics": false,
+    "module": "commonjs"
+  },
+  "exclude": [
+    "node_modules",
+    "public"
+  ]
+}
